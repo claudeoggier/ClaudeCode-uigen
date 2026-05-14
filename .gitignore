@@ -3,3 +3,7 @@ CLAUDE.local.md
 node_modules/
 .next/
 prisma/dev.db
+.DS_Store
+logs.txt
+.claude/
+src/generated/
